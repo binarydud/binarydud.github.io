@@ -1,0 +1,14 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://binarydud.github.io
+title: itybits
+subtitle: A little bit of this.
+author: Matt George
+simple_search: http://google.com/search
+description:
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
