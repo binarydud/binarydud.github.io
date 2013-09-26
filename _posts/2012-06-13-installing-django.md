@@ -5,6 +5,7 @@ date: 2012-06-13 10:19
 comments: true
 categories: python, django
 ---
+
 I recently had some people ask questions about installing django
 
 install distribute:

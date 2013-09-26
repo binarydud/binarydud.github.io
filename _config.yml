@@ -12,3 +12,5 @@ description:
 source:      .
 destination: ./_site
 plugins:     ./_plugins
+
+excerpt_separator: <!--more-->
