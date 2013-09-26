@@ -1,5 +1,6 @@
 ---
 published: false
+title: This is awesome
 ---
 
 ## A New Post
