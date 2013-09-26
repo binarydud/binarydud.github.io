@@ -3,14 +3,12 @@ layout: base
 title: itybits.com
 ---
 {% for post in site.posts %}
-<div>
     <h2>
         <a name="{{post.slug}}" class="anchor" href="{{post.url}}">
             <span class="octicon octicon-link"></span></a>{{post.title}}
     </h2>
     {{post.excerpt}}
 
-</div>
 
 {% endfor %}
 
