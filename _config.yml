@@ -15,7 +15,7 @@ plugins:     ./_plugins
 
 excerpt_separator: <!--more-->
 pygments: true
-markdown: rdiscount
+markdown: redcarpet
 redcarpet:
   extensions:
     - hard_wrap
