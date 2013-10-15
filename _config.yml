@@ -14,4 +14,12 @@ destination: ./_site
 plugins:     ./_plugins
 
 excerpt_separator: <!--more-->
-pygments:    true
+pygments: true
+markdown: redcarpet
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_block
