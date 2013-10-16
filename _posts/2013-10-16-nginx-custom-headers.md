@@ -1,5 +1,8 @@
 ---
-published: false
+title: "Custom Headers with NGINX"
+date: "2013-10-16"
+published: true
+comments: true
 ---
 
 Today I learned something new about custom headers, django and nginx.
