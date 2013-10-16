@@ -23,3 +23,9 @@ redcarpet:
     - autolink
     - strikethrough
     - fenced_code_block
+metadata:
+  _posts:
+    - name: 'layout'
+      field:
+        element: 'text'
+        value: 'post'
