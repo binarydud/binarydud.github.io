@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Custom Headers with NGINX"
 date: "2013-10-16"
 published: true
