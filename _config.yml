@@ -25,7 +25,12 @@ redcarpet:
     - fenced_code_block
 metadata:
   _posts:
+    - name: "title"
+      field:
+        element: "text"
+        label: "Title"
+        value: ""
     - name: 'layout'
       field:
-        element: 'text'
+        element: 'hidden'
         value: 'post'
