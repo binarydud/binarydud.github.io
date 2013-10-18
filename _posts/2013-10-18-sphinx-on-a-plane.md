@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: "Sphinx on a Plane"
 date: "2013-10-15"
 comments: true
