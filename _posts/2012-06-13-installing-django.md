@@ -1,8 +1,9 @@
 ---
-layout: post
-title: "Installing Django"
-date: 2012-06-13 10:19
 comments: true
+date: 2012-06-13 10:19
+layout: post
+published: true
+title: Installing Django
 ---
 
 I recently had some people ask questions about installing django
