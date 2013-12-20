@@ -2,7 +2,7 @@
 comments: 'true'
 date: '2013-12-19'
 layout: post
-published: false
+published: true
 title: '2013: A Year in Review'
 ---
 It's nearing the end of 2013 and I wanted to look back at some of the goals I set for myself this past year as well as reflect on some of the things that happened over the year.
