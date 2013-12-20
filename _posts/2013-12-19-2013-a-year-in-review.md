@@ -14,6 +14,6 @@ One of the biggest change for me this past year was the increase in running. Run
 My work on buckit.io ended up faltering and eventually stopping over the past year. However, I have two new projects that I am currently working on. Emporium.io is  a private package repository for python developers. While Verse is a frontend for blogging via github pages. Hopefully, I will have posts on both these projects in the near future.
 
 ###enjoying family
-The best thing to happen to me this year was the birth of my second daughter. Our family had some ups and downs, but it's been a wonderful year all around. I'm very excited to see what the future holds for us.
+The best thing to happen to me this year was the birth of my second daughter. She was born this summer and has been a joy to watch grow over the past 6 months. My oldest daughter turned two this year and it has been fun to watch her learn to use words to not only talk but to sing as well. Our family had some ups and downs, but it's been a wonderful year all around. I'm very excited to see what the future holds for us. 
 
 Coming up next, some plans for 2014.
